@@ -1,6 +1,6 @@
 {
-  "android_version": "2.1.0",
-  "ios_version": "2.1.0",
+  "android_version": "2.1.1",
+  "ios_version": "2.1.1",
   "force_update": false,
   "update_url_android": "https://play.google.com/store/apps/details?id=com.NomiSistem.NommiMusic&hl=en",
   "update_url_ios": "https://apps.apple.com/us/app/nomiea-piano-educational-app/id6749048462"
